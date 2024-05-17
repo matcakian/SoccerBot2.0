@@ -1,0 +1,2 @@
+Hi! This bot can simulate soccer matches.
+Use /help for more information.
